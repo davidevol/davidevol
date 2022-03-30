@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Android" width="256" height="256" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+<img alt="Android" width="200" height="200" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
 <h3>Welcome!</h3>
 <br></br>
