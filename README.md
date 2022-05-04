@@ -14,7 +14,6 @@ My ultimate goal is to contribute to the privacy and quality of Android OS.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/david-porto)
-![Views](https://komarev.com/ghpvc/?username=androidavid&style=flat-square)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/deates)
 [![Stripe](https://img.shields.io/badge/-Stripe-635bff?style=flat-square&logo=Stripe&logoColor=white)](https://buy.stripe.com/cN23ecf2J0J6gOk145)
 
