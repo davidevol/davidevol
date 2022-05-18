@@ -20,11 +20,11 @@ Call me to chat when you need help or want to point me in any direction.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/david-porto) 🔷
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/davideeh)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=androidavid&theme=white)
+<!--![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=androidavid&theme=white)-->
 
 
 <br></br>
-
+<br></br>
 
 <img alt="BAT token logo" width="50" heigth="50" src="https://www.coinopsy.com/media/img/quality_logo/Basic_Attention_Token.png">
 
