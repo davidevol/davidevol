@@ -26,14 +26,6 @@ Call me to chat when you need help or want to point me in any direction.
 <br></br>
 <br></br>
 
-<img alt="BAT token logo" width="50" heigth="50" src="https://www.coinopsy.com/media/img/quality_logo/Basic_Attention_Token.png">
-
-
-<p>:us: Someone sent me 0.25 of BAT, thank you very much for the donation, citizen!</p>
-<p>:brazil: Alguém me enviou 0,25 de BAT, muito obrigado pela doação, anônimo!</p>  
-
-
-<br></br>
 
 
 🌹
