@@ -1,32 +1,33 @@
 <div align="center">
-<p>💚</p>
+  <p>ㅤ💚</p>
   
-<img alt="Android" width="200" height="200" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"> 
-
-<strong>Welcome!</strong>
-<br></br>
+  <p>ㅤOlá, aqui você encontrará um monte de protótipos de aplicativos Android e algumas atividades desenvolvidas com meus professores durante a aula na faculdade. Ainda não criei algo tão relevante. Sinta-se à vontade por aqui. <img
+    width="2%"
+    height="2%"
+    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">
+  </p>
   
-<p>
-<strong>David Porto</strong> is my name.
-<p>I am in my second year of software engineering college, in my profile you will find functional prototypes of android applications. Currently practicing with trial and error in building Android apps in my spare time. 
-Call me to chat when you need help or want to point me in any direction.
-</p>
-<p>My ultimate goal is to contribute to the privacy and quality of Android OS.</p>
+   <p>ㅤHi, here you will find a bunch of Android app prototypes and some activities developed with my professors during class in college. I haven't created anything that relevant yet. Feel free, folks. <img
+    width="2%"
+    height="2%"
+    src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">
+    
+  </p>
+   <a href="https://t.me/davideploy"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=flat=square&logo=telegram&logoColor=white"></a>
+   <h1></h1>
+   
 
-
-<br></br>
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/david-porto) 🔷
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/davideploy)
-
-<!--![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=androidavid&theme=white)-->
-
-
-<br></br>
-<br></br>
-
-
-
-🌹
-</div>
+<div>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=davideploy&title_color=47ffb3&text_color=ffffff&hide_border=true&hide=contribs,prs,issues&bg_color=00000000">
+  </div>
+  <img
+    alt="Android"
+    width="33%"
+    height="33%"
+    src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
+  <div>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideploy&layout=compact&title_color=ffffff&text_color=ffffff&hide_border=true&bg_color=00000000">
+  </div>
+  </div>
