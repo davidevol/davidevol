@@ -1,5 +1,5 @@
 <div align="center">
-  <p>ㅤ💚</p>
+  <p>💚</p>
   
   <p>ㅤOlá, aqui você encontrará um monte de protótipos de aplicativos Android e algumas atividades desenvolvidas com meus professores durante a aula na faculdade. Ainda não criei algo tão relevante. Sinta-se à vontade por aqui. <img
     width="2%"
@@ -28,6 +28,6 @@
     src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
   <div>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideploy&layout=compact&title_color=a97bff&text_color=909090&hide_border=true&bg_color=00000000">
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideploy&langs_count=10&title_color=a97bff&text_color=909090&hide_border=true&bg_color=00000000">
   </div>
   </div>
