@@ -19,7 +19,7 @@
 
 <div>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=davideploy&title_color=47ffb3&text_color=ffffff&hide_border=true&hide=contribs,prs,issues&bg_color=00000000">
+      src="https://github-readme-stats.vercel.app/api?username=davideploy&title_color=47ffb3&text_color=909090&hide_border=true&hide=contribs,prs,issues&bg_color=00000000">
   </div>
   <img
     alt="Android"
@@ -28,6 +28,6 @@
     src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
   <div>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideploy&layout=compact&title_color=ffffff&text_color=ffffff&hide_border=true&bg_color=00000000">
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davideploy&layout=compact&title_color=a97bff&text_color=909090&hide_border=true&bg_color=00000000">
   </div>
   </div>
