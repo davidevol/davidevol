@@ -27,7 +27,7 @@
         src="https://i.pinimg.com/originals/e6/70/fd/e670fdebc75c520ef908bfe045f0cb9a.gif">
     <div>
         <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidaleth&langs_count=10&title_color=b94476&hide_border=true&bg_color=00000000">
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidaleth&langs_count=8&title_color=b94476&hide_border=true&bg_color=00000000">
     </div>
     <img alt="pinkclouds" width="100%" height="100"
         src="https://i.pinimg.com/originals/98/c6/b1/98c6b14dac169574dd637e16d320833e.png">
