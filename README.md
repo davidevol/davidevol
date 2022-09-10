@@ -14,7 +14,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-David%20Porto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-porto/)](https://www.linkedin.com/in/david-porto/)
 [![Protonmail Badge](https://img.shields.io/badge/-Meu%20Email-8b89cc?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:davidcontato@pm.me)](mailto:davidcontato@pm.me)
-[![Telegram Badge](https://img.shields.io/badge/-Dáleth-ec5797?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/dleth)](https://t.me/dleth)
+[![Telegram Badge](https://img.shields.io/badge/-Dáleth-ec5797?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/dl_th)](https://t.me/dl_th)
     </br>
     <img alt="pinkline" width="100%" height="10"
         src="https://i.pinimg.com/originals/e6/70/fd/e670fdebc75c520ef908bfe045f0cb9a.gif">
