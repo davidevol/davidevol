@@ -1,34 +1,16 @@
-<div align="center">
-    <p>🌸</p> 
-</br>
-<H1> David Porto</H1>
-    <p><img width="4%" height="4%" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">ㅤOlá,
-        aqui você encontrará protótipos de aplicativos Android e algumas atividades desenvolvidas com meus professores
-        durante a aula na faculdade. Sinta-se à vontade por aqui.
-    </p>
-    <p><img width="4%" height="4%"
-            src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">ㅤHi, here you will find a
-        bunch of Android app prototypes and some activities developed with my professors during class in college. Feel
-        free, folks.
-    </p>
+![banner](https://user-images.githubusercontent.com/88854160/189575363-90e05557-0904-469a-9d6a-d760657ae0c3.png)
 
-[![Linkedin Badge](https://img.shields.io/badge/-David%20Porto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-porto/)](https://www.linkedin.com/in/david-porto/)
-[![Protonmail Badge](https://img.shields.io/badge/-Meu%20Email-8b89cc?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:davidcontato@pm.me)](mailto:davidcontato@pm.me)
-[![Telegram Badge](https://img.shields.io/badge/-Dáleth-ec5797?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/dl_th)](https://t.me/dl_th)
-    </br>
-    <img alt="pinkline" width="100%" height="10"
-        src="https://i.pinimg.com/originals/e6/70/fd/e670fdebc75c520ef908bfe045f0cb9a.gif">
-    </br>
-    <div>
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=davidaleth&title_color=b94476&hide_border=true&hide=contribs,prs,issues&bg_color=00000000">
-    </div>
-    <img alt="pinkline" width="100%" height="10"
-        src="https://i.pinimg.com/originals/e6/70/fd/e670fdebc75c520ef908bfe045f0cb9a.gif">
-    <div>
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidaleth&langs_count=9&title_color=b94476&hide_border=true&layout=compact&hide=Jupyter%20Notebook&bg_color=00000000">
-    </div>
-    <img alt="pinkclouds" width="100%" height="100"
-        src="https://i.pinimg.com/originals/98/c6/b1/98c6b14dac169574dd637e16d320833e.png">
-</div>
+## Olá, sou David Porto
+
+estou cursando o quinto semestre da FATEC Ipiranga de Análise e Desenvolvimento de Sistemas, e aqui o que você mais encontrará são protótipos simples e funcionais, apenas com a intenção de aprendizado. Sinta-se à vontade.
+
+* [Meus projetos](https://github.com/davidaleth?tab=repositories)
+* [LinkedIn](https://www.linkedin.com/in/david-porto/)
+* [Telegram](https://t.me/dl_th)
+* [E-mail](mailto:davidcontato@pm.me)
+
+Posso te ajudar com problemas de código, UI, UX e condutas de código limpo! 
+
+----
+
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidaleth&langs_count=9&title_color=58a6ff&hide_border=true&layout=compact&hide=Jupyter%20Notebook&bg_color=00000000"></div>
