@@ -2,14 +2,14 @@
 
 ## Olá, sou David Porto
 
-estou cursando o quinto semestre da FATEC Ipiranga de Análise e Desenvolvimento de Sistemas, e aqui o que você mais encontrará são protótipos simples e funcionais, apenas com a intenção de aprendizado. Sinta-se à vontade.
+estou cursando o quinto semestre da FATEC Ipiranga de Análise e Desenvolvimento de Sistemas, e aqui o que você mais encontrará são protótipos simples e funcionais. Sinta-se à vontade.
 
 * [Meus projetos](https://github.com/davidaleth?tab=repositories)
 * [LinkedIn](https://www.linkedin.com/in/david-porto/)
 * [Telegram](https://t.me/dl_th)
 * [E-mail](mailto:davidcontato@pm.me)
 
-Posso te ajudar com problemas de código, UI, UX e condutas de código limpo! 
+Posso te ajudar com problemas de código, design e aplicações móveis! 
 
 ----
 
