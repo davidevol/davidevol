@@ -2,9 +2,9 @@
 
 estou cursando o quinto semestre da FATEC Ipiranga de Análise e Desenvolvimento de Sistemas, e aqui o que você mais encontrará são protótipos simples e funcionais. Sinta-se à vontade.
 
-* [Meus projetos](https://github.com/davidaleth?tab=repositories)
+* [Meus projetos](https://github.com/davidevol?tab=repositories)
 * [LinkedIn](https://www.linkedin.com/in/david-porto/)
-* [Telegram](https://t.me/dl_th)
+* [Telegram](https://t.me/RosaEscuro)
 * [E-mail](mailto:davidcontato@pm.me)
 
 Posso te ajudar com problemas de código, design e aplicações móveis! 
