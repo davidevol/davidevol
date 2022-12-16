@@ -1,5 +1,3 @@
-![banner](https://user-images.githubusercontent.com/88854160/189575363-90e05557-0904-469a-9d6a-d760657ae0c3.png)
-
 ## Olá, sou David Porto
 
 estou cursando o quinto semestre da FATEC Ipiranga de Análise e Desenvolvimento de Sistemas, e aqui o que você mais encontrará são protótipos simples e funcionais. Sinta-se à vontade.
