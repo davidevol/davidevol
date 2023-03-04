@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/davidevol?tab=repositories">Meus projetos</a> | <a href="https://www.linkedin.com/in/david-porto/">LinkedIn</a> | <a href="https://t.me/RosaEscuro">Telegram</a> | <a href="mailto:davidcontato@pm.me">E-mail</a>
+<a href="https://github.com/davidevol?tab=repositories">Meus projetos</a> | <a href="https://t.me/RosaEscuro">Telegram</a> | <a href="mailto:davidcontato@pm.me">E-mail</a>
 </p>
 
 <table align="center">
