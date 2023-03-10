@@ -23,6 +23,6 @@
 <br>
 
 >**QUER AJUDA?**<br>
-Posso te ajudar com problemas de código, design e aplicações móveis, só me chamar!
+Posso te ajudar com problemas de código, design e aplicações móveis e web!
 
 ----
