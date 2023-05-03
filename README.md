@@ -3,7 +3,6 @@
 ----
 >**SAUDAÇÕES**<br>
 → Sou um estudante de Desenvolvimento de Sistemas que está no ultimo semestre da faculdade.\
-→ Estudo para que um dia possa trabalhar e morar no exterior.\
 → Meus repositórios nesta conta são exposições de atividades que faço durante as aulas ou cursos da udemy.\
 → Sou obcecado por minimalismo.
 
@@ -29,6 +28,6 @@
 
 
 >**QUER AJUDA?**<br>
-Posso te ajudar com problemas de código, design e aplicações móveis e web!
+Posso te ajudar com problemas de código, design, aplicações móveis e web!
 
 ----
