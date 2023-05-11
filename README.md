@@ -2,9 +2,9 @@
 
 ----
 >**SAUDAÇÕES**<br>
-→ Sou um estudante de Desenvolvimento de Sistemas que está no ultimo semestre da faculdade.\
-→ Meus repositórios nesta conta são exposições de atividades que faço durante as aulas ou cursos da udemy.\
-→ Sou obcecado por minimalismo.
+→ Sou um estudante de Desenvolvimento de Sistemas, em 2 meses estarei formado.\
+→ Meus repositórios são exposições de atividades que faço durante as aulas ou cursos online.\
+→ Obcecado por minimalismo.
 
 
 <br>
