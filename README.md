@@ -2,7 +2,7 @@
 
 ----
 >**SAUDAÇÕES**<br>
-→ Sou um estudante de Desenvolvimento de Sistemas, em 2 meses estarei formado.\
+→ Sou um estudante de Desenvolvimento de Sistemas, em 1 mês estarei formado.\
 → Meus repositórios são exposições de atividades que faço durante as aulas ou cursos online.\
 → Obcecado por minimalismo.
 
