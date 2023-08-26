@@ -4,7 +4,6 @@
 >**SAUDAÇÕES**<br>
 ━ Sou um estudante formado em Desenvolvimento de Sistemas.\
 ━ Aqui você vai encontrar minhas atividades que fiz durante a faculdade ou cursos online.\
-━ Sou orientado ao minimalismo.
 
 <br>
 
