@@ -4,7 +4,7 @@
 ----
 >**SAUDAÇÕES**<br>
 ━  Sou um estudante formado em Desenvolvimento de Sistemas.\
-━  Aqui você vai encontrar minhas atividades que fiz durante a faculdade ou cursos online.
+━  Aqui, você encontrará minhas atividades feitas durante a faculdade e cursos extracurriculares.
 
 <br>
 
@@ -44,6 +44,6 @@
 
 
 >**QUER AJUDA?**<br>
-Posso te ajudar com problemas de código, design, aplicações móveis e web!
+Posso te ajudar com design, aplicações móveis e web!
 
 <hr>
