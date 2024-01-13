@@ -1,10 +1,11 @@
 
-**Olá, sou o David Porto**
+**Hi, I'm David Porto**
 
 ----
->**SAUDAÇÕES**<br>
-━  Sou um estudante formado em Desenvolvimento de Sistemas.\
-━  Aqui, você encontrará minhas atividades feitas durante a faculdade e cursos extracurriculares.
+>**GREETINGS**<br>
+━  I have a degree in Systems Development. (2023)\
+━  Currently **web development** has been my focus.\
+━  Most of my activities are written with comments in Brazilian Portuguese, I'm reducing it.
 
 <br>
 
@@ -17,7 +18,7 @@
 <br>
 
 
->**Possuo familiaridade com essas tecnologias:**
+>**I'm familiar with these technologies:**
 <div align="center">
 <img src="https://github.com/davidevol/davidevol/assets/88854160/c2c4f66d-5fc7-4920-854c-35bea07b674d" alt="android" width="60" height="60">
 <img src="https://github.com/davidevol/davidevol/assets/88854160/95115135-6fd8-42b5-840a-c8e47ddb08be" alt="nodejs" width="60" height="60">
@@ -40,10 +41,5 @@
 <img src="https://github.com/davidevol/davidevol/assets/88854160/db5d734c-ba7c-4f90-a0f9-e4eefa6c1805" alt="postman" width="60" height="60">
 
 </div><br>
-
-
-
->**QUER AJUDA?**<br>
-Posso te ajudar com design, aplicações móveis e web!
 
 <hr>
