@@ -1,10 +1,6 @@
 **Hi, I'm David Porto**
 
 ----
->**GREETINGS**<br>
-━  I have a degree in Systems Development. (2023)\
-━  Currently **web development** has been my focus.\
-━  Most of my activities are written with comments in Brazilian Portuguese, I'm reducing it.
 
 <br>
 
