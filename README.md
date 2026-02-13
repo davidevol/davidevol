@@ -1,16 +1,14 @@
 **Hi, I'm David Porto**
 
+
+Software Developer & UI/UX Designer based in São Paulo, Brazil.
+
+>**🌱 Currently Learning**
+- Advanced SVG techniques & masking
+- Android app store optimization
+- SAP Backend (ABAP)
+
 ----
-
-<br>
-
-<table align="center">
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidevol&langs_count=15&title_color=58a6ff&hide_border=true&layout=compact&hide=Jupyter%20Notebook,php,html,css&bg_color=00000000">
-</td>
-</table>
-
-<br>
 
 >**I'm familiar with these technologies:**
 <div align="center">
