@@ -1,7 +1,7 @@
 **Hi, I'm David Porto**
 
 
-Software Developer & UI/UX Designer based in São Paulo, Brazil.
+Software Developer & UI/UX Designer
 
 ----
 
