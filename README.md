@@ -3,7 +3,9 @@
 
 Software Developer & UI/UX Designer based in São Paulo, Brazil.
 
->**🌱 Currently Learning**
+----
+
+>**Currently Learning**
 - Advanced SVG techniques & masking
 - Android app store optimization
 - SAP Backend (ABAP)
@@ -33,7 +35,6 @@ Software Developer & UI/UX Designer based in São Paulo, Brazil.
 <img src="https://github.com/davidevol/davidevol/assets/88854160/dbb79c91-9e1a-412a-be63-3da65b71f614" alt="prettier" width="60">
 <img src="https://github.com/davidevol/davidevol/assets/88854160/a0378826-9554-4741-889b-585549334691" alt="jest" width="60">
 <img src="https://github.com/davidevol/davidevol/assets/88854160/db5d734c-ba7c-4f90-a0f9-e4eefa6c1805" alt="postman" width="60">
-
 </div><br>
 
 <hr>
