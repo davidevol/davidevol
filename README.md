@@ -1,12 +1,11 @@
 **Hi, I'm David Porto**
 
 
-Software Developer & UI/UX Designer
+Software Developer
 
 ----
 
 >**Currently Learning**
-- Advanced SVG techniques & masking
 - Android app store optimization
 - SAP Backend (ABAP)
 
